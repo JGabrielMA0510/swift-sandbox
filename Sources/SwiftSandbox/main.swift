@@ -1,2 +1,2 @@
-print("Hello, World!")
-
+let meuNome = "João Gabriel"
+print("Hello, \(meuNome)!")
